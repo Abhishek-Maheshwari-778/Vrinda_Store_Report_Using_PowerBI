@@ -1,4 +1,4 @@
-# Vrinda_Store_Report_Using_PowerBI
+# Vrinda_Store_Report_Using_Excel
 📊 Vrinda Store Sales Dashboard (2022)
 An interactive Excel dashboard project analyzing Vrinda Store's 2022 annual sales report. This project explores key sales trends, customer demographics, and performance across different channels to provide actionable business insights.
 
